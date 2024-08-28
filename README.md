@@ -5,6 +5,8 @@
 
   Os elétrodomésticos **TecBril** são projetados para **otimizar o tempo e melhorar a qualidade de vida de quem usa nossos produtos!**
 
+![image](https://github.com/user-attachments/assets/63ed5f9e-4672-45fd-8ec7-64cb76823952)
+
 
   ## Listagem de produtos:
 
